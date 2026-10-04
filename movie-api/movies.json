@@ -1,29 +1,56 @@
 [
   {
     "id": "1",
-    "title": "Inception",
-    "year": 2010,
-    "genre": ["Sci-Fi", "Action"],
-    "rating": 8.8,
-    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500",
-    "overview": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea."
+    "title": "Stranger Things: Season 5",
+    "rating": 9.2,
+    "releaseDate": "November 26, 2025",
+    "genres": ["Sci-Fi", "Drama"],
+    "poster": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
   },
   {
     "id": "2",
-    "title": "Interstellar",
-    "year": 2014,
-    "genre": ["Sci-Fi", "Drama", "Adventure"],
-    "rating": 8.7,
-    "poster": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=500",
-    "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    "title": "Wednesday Season 2",
+    "rating": 8.8,
+    "releaseDate": "August 6, 2025",
+    "genres": ["Fantasy", "Mystery"],
+    "poster": "https://image.tmdb.org/t/p/w500/9PFonB99qQeFLDc6um9V6dP6bm5.jpg",
+    "overview": "A sleuthing, supernaturally infused mystery charting Wednesday Addams' years as a student at Nevermore Academy."
   },
   {
     "id": "3",
-    "title": "The Dark Knight",
-    "year": 2008,
-    "genre": ["Action", "Crime", "Drama"],
+    "title": "Squid Game Season 3",
+    "rating": 8.9,
+    "releaseDate": "June 27, 2025",
+    "genres": ["Thriller", "Drama"],
+    "poster": "https://image.tmdb.org/t/p/w500/dDlG1Pkvz1n8y4oP421379s6V3T.jpg",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games for a tempting prize."
+  },
+  {
+    "id": "4",
+    "title": "The Last of Us Season 2",
     "rating": 9.0,
-    "poster": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=500",
-    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests."
+    "releaseDate": "April 13, 2025",
+    "genres": ["Action", "Adventure"],
+    "poster": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqMis2SYqAO4.jpg",
+    "overview": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity’s last hope."
+  },
+  {
+    "id": "5",
+    "title": "House of the Dragon Season 3",
+    "rating": 8.7,
+    "releaseDate": "June 2026",
+    "genres": ["Fantasy", "Drama"],
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
+    "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke."
+  },
+  {
+    "id": "6",
+    "title": "Dune: Part Two",
+    "rating": 8.9,
+    "releaseDate": "March 1, 2024",
+    "genres": ["Sci-Fi", "Adventure"],
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family."
   }
 ]
