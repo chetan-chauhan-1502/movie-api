@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Sci-Fi", "Action"],
+    "rating": 8.8,
+    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500",
+    "overview": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea."
+  },
+  {
+    "id": "2",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": ["Sci-Fi", "Drama", "Adventure"],
+    "rating": 8.7,
+    "poster": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=500",
+    "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "rating": 9.0,
+    "poster": "https://images.unsplash.com/photo-1509281373149-e957c6296406?w=500",
+    "overview": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests."
+  }
+]
